@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=APLinkedStack
+comment0.text=\n\ A\ class\ that\ uses\ a\ linked\ data\ structure\n\ to\ implement\ the\ methods\n\ in\ the\ APStack<T>\ interface.\n
+comment1.params=
+comment1.target=APLinkedStack()
+comment2.params=x
+comment2.target=void\ push(java.lang.Object)
+comment3.params=
+comment3.target=java.lang.Object\ pop()
+comment4.params=
+comment4.target=java.lang.Object\ peek()
+comment5.params=
+comment5.target=int\ size()
+numComments=6

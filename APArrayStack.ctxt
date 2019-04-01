@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=APArrayStack
+comment0.text=\n\ A\ class\ that\ uses\ an\ array\ to\ implement\ the\ methods\n\ in\ the\ APStack<T>\ interface.\n
+comment1.params=
+comment1.target=APArrayStack()
+comment2.params=x
+comment2.target=void\ push(java.lang.Object)
+comment3.params=
+comment3.target=java.lang.Object\ pop()
+comment4.params=
+comment4.target=java.lang.Object\ peek()
+comment5.params=
+comment5.target=int\ size()
+comment6.params=
+comment6.target=void\ resize()
+numComments=7

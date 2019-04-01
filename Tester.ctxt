@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Tester
+comment0.text=\n\ Tester\ for\ the\ Stack\ classes.\n
+comment1.params=
+comment1.target=void\ main()
+comment2.params=stack
+comment2.target=void\ tester(APStack)
+comment2.text=\n\ You\ can\ plug\ either\ APArrayStack\ or\ APLinkedStack\ into\n\ this\ method,\ because\ they\ both\ implement\ the\ APStack\n\ interface.\ Polymorphism\!\n
+numComments=3

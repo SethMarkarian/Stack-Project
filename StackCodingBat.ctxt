@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=StackCodingBat
+comment0.text=\n\ Complete\ the\ methods\ below.\n\ \n\ 1.\ Balanced\ delimiters\n\ \n\ 2.\ flipStack()\n\ \n\ 3.\ maxInAStack()\n\ \n
+comment1.params=s
+comment1.target=boolean\ checkDelimiters(java.lang.String)
+comment1.text=\n\ This\ method\ should\ use\ a\ Stack\ to\ check\ a\ string\ to\ make\n\ sure\ the\ parentheses\ and\ square\ brackets\ are\ balanced.\n\ \n\ Example\ of\ balanced\:\ [---(****)----(**)---]\n\ \n\ Example\ of\ unbalanced\:\ [----[----)***]\n\ \n\ See\ tester\ for\ more\ examples.\n\ \n\ Please\ use\ a\ stack\ for\ this\ problem\ (use\ the\ stack\ class\ you\ wrote).\n\ You\ should\ loop\ over\ the\ string\ and\ add\ the\ OPENING\ delimiters\n\ to\ the\ stack.\ Then\ check\ the\ top\ of\ the\ stack\ against\ any\ closing\n\ delimieters\ that\ appear.\n
+comment2.params=stack
+comment2.target=APStack\ flipStack(APStack)
+comment2.text=\n\ Given\ a\ stack,\ return\ a\ stack\ equal\ to\ the\ given\ stack,\n\ flipped\ over.\n
+comment3.params=stack
+comment3.target=java.lang.Integer\ maxInAStack(APStack)
+comment3.text=\n\ Given\ a\ stack\ of\ Integers,\ return\ the\ largest\ number\n\ in\ the\ stack.\ The\ stack\ should\ be\ UNCHANGED\ after\ the\ method\n\ is\ finished.\n
+comment4.params=
+comment4.target=void\ tester()
+numComments=5

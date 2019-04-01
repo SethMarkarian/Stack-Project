@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=APStack
+comment0.text=\n\ A\ stack\ is\ a\ data\ structure\ that\ works\ like\ a\ literal\n\ stack\ of\ plates\ or\ cards,\ etc.\ You\ can\ do\ the\ following\n\ with\ a\ stack\:\n\ \n\ -\ Add\ a\ new\ item\ to\ the\ top.\n\ -\ Remove\ an\ item\ from\ the\ top.\n\ -\ Look\ at\ the\ item\ on\ top\ but\ not\ remove\ it.\n\ -\ Get\ the\ size\ of\ the\ stack.\n\ \n\ One\ important\ feature\ of\ a\ stack\ is\ that\ you\ ONLY\ have\n\ direct\ access\ to\ the\ top\ item.\n\ \n\ This\ interface\ specifies\ the\ method\ headers\ for\ a\ Stack\n\ data\ structure.\n
+comment1.params=x
+comment1.target=void\ push(java.lang.Object)
+comment1.text=\n\ Adds\ a\ new\ item\ to\ the\ top\ of\ the\ stack.\n\ This\ increments\ the\ size.\n
+comment2.params=
+comment2.target=java.lang.Object\ pop()
+comment2.text=\n\ Removes\ and\ returns\ the\ top\ item\ in\ the\ stack.\n\ This\ decrements\ the\ size.\n
+comment3.params=
+comment3.target=java.lang.Object\ peek()
+comment3.text=\n\ Returns\ but\ does\ not\ remove\ the\ top\ item\ in\ the\ stack.\n\ This\ does\ not\ change\ the\ size.\n
+comment4.params=
+comment4.target=int\ size()
+comment4.text=\n\ Returns\ the\ size.\n
+numComments=5
